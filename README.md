@@ -7,8 +7,6 @@ Documentation: https://www.autohotkey.com/v2/
 
 
 
-
-
 Shortcuts for automatic start of AHK scripts when Windows starts:
 *C:\Users\P075934\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup*
 
@@ -30,5 +28,7 @@ Open Chrome	AI  		F2+G			OpenChrome.ahk
 Go to Documents			F3+D			GoDir.ahk
 Go to Projects/Immuno	F3+P			GoDir.ahk
 Go to FSS				F3+f			GoDir.ahk
+
+Insert MathType object	Ctrl-M			InsertMathtype.ahk
 ```
 
