@@ -30,6 +30,8 @@
         SendEvent("1.15")
 		Sleep(10)
 		SendEvent '{Enter}'
+		Sleep(10)
+		SendEvent("!hfca") ;; black font
     }
     else
     {

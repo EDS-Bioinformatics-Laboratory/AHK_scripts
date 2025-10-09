@@ -1,5 +1,5 @@
 # AutoHotKey scripts
-1 September 2025
+9 October 2025
 
 
 
@@ -29,6 +29,8 @@ Go to Documents			F3+D			GoDir.ahk
 Go to Projects/Immuno	F3+P			GoDir.ahk
 Go to FSS				F3+f			GoDir.ahk
 
-Insert MathType object	Ctrl-M			InsertMathtype.ahk
+Insert MathType object	Ctrl-Alt-M		InsertMathtype.ahk
+Format Word text		Ctrl-Alt-F		FormatWordText.ahk ;; Justify, line spacing 1.15, 																remove space before/after 																paragraph, font color black
+
 ```
 
