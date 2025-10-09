@@ -32,7 +32,17 @@
 		SendEvent '{Enter}'
 		Sleep(10)
 		SendEvent("!hfca") ;; black font
-    }
+		Sleep(10)
+		SendEvent("!hff") ;; font	
+        SendEvent("calibri")
+		Sleep(10)
+		SendEvent '{Enter}'
+		Sleep(10)		
+		SendEvent("!hfs") ;; font size
+        SendEvent("11")
+		Sleep(10)
+		SendEvent '{Enter}'
+	}
     else
     {
         MsgBox("Microsoft Word window not active.")

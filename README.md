@@ -33,6 +33,7 @@ Insert MathType object	Ctrl-Alt-M		InsertMathtype.ahk
 Format Word text		Ctrl-Alt-F		FormatWordText.ahk ;; Justify, line spacing 1.15,
 															  remove space before/after
                                                               paragraph, font color black
+                                                              font calibri, size=11
 
 ```
 
